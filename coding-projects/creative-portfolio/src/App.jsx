@@ -11,6 +11,7 @@ function App() {
 
       <p>
         I create expressive digital experiences through code, art, and video.
+        love izzu baby❤️
       </p>
 
       <button>View my work</button>
